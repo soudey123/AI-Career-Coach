@@ -1,0 +1,233 @@
+﻿Name,Email,Goal,Hours,Format,Plan,Timestamp
+Sam Dey,soumavadey87@gmail.com,Become an AI Engineer,5.0,Any,"# Sam Dey's Weekly Growth Plan - AI Engineer
+
+> Note: Since we have 5 hours per week, we will dedicate approximately 45-60 minutes per day for learning, with a day off to consolidate the learning of the week.
+
+## Day 1 : **Introduction to Python**
+Start with Python as it is one of the most preferred languages for AI programming. You can start from scratch if you are not familiar with it.
+
+- Watch YouTube Tutorial: [Python for Beginners by CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+- Practise Python on websites like [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+
+> Reflection Question: What are the different Data Types in Python?
+  
+
+## Day 2: **Introduction to numpy and pandas**
+Numpy and pandas are key libraries for data manipulation in Python.
+
+- Read the Article: [A Quick Introduction to the “Numpy” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db)
+- Watch YouTube Tutorial: [Pandas Tutorial by Codebasics](https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+- Practice numpy and pandas in Jupyter Notebook. Download it using Anaconda [here](https://www.anaconda.com/products/distribution).
+
+> Reflection Question: How would you use pandas to read a CSV file?
+  
+
+## Day 3: **Introduction to Machine Learning**
+A fundamental understanding of machine learning is key for becoming an AI Engineer.
+
+- Read the Article: [Introduction to Machine Learning by Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+- Watch YouTube Tutorial: [Machine Learning by Andrew Ng on Coursera](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+> Reflection Question: What is the difference between supervised and unsupervised learning?
+
+## Day 4: **Deep Dive into Scikit-Learn**
+Scikit-Learn is a powerful machine learning library. It will provide you with robust tools for model selection, pre-processing data, etc.
+
+- Read Tutorial: [Introduction to Scikit-Learn by DataCamp](https://www.datacamp.com/community/tutorials/machine-learning-python)
+- Start a Project using Scikit-learn in Jupyter Notebook.
+
+> Reflection Question: How to use Scikit-learn library for implementing a linear regression model?
+
+## Day 5: **Introduction to Neural Networks**
+These are the fundamental concepts upon which AI and deep learning are built.
+
+- Watch YouTube Tutorial: [But what is a Neural Network? by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+- More in-depth read: [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+> Reflection Question: What are activation functions in Neural Networks, and why are they necessary?
+
+## Day 6: Rest and Reflect **
+- Consolidate what you've learned over the week.
+- Explore more about the topics that interested you.
+- Reflection and Assessment of the Week- Were you able to grasp the basics of AI and its tools?
+
+## Day 7: **Planning for the Upcoming Week**
+- Based on your insights from last week, plan on which aspects to focus more on.
+- Choose a mini-project applying all these basic concepts.
+- Always have hands-on coding practice——this will make the course of learning more interesting and motivating.
+
+> Keep the passion alive, Sam! Remember, ""The only way to do great work is to love what you do"". Next week, we will dive deeper and learn more advanced concepts. Keep coding!",4/6/2025 8:36pm
+Sam Dey,soumavadey87@gmail.com,Become an AI Engineer,5.0,Reading,"Previous weekly plan:
+
+Day 1: Introduction to AI - Reading ""Artificial Intelligence: Structures and Strategies for Complex Problem Solving"" by George F. Luger.
+Day 2: Reading ""Fundamentals of Machine Learning.""
+Day 3: Introduction to Python - Reading ""A Whirlwind Tour of Python"" by Jake VanderPlas.
+Day 4: Start with numpy - Reading ""Python for Data Analysis"" by Wes McKinney.
+Day 5: Continue with Python - Practice on Jupyter notebook.
+Day 6: Basic algorithms - Reading ""Hands-On Machine Learning with Scikit-Learn and TensorFlow"" by Aurelien Geron.
+Day 7: Weekend Review and reflection.
+
+New 1-week plan:
+
+Day 1:
+    Task: Understand Statistics and Probability in AI
+    Read: “Elements of Statistical Learning” by Trevor Hastie, Robert Tibshirani, Jerome Friedman.
+    https://web.stanford.edu/~hastie/ElemStatLearn/
+    
+Day 2: 
+    Task: Focus on data manipulation
+    Read: “Data Science for Business” by Foster Provost and Tom Fawcett.
+    Tool: Practice manipulating datasets with pandas on Jupyter Notebook
+    https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
+
+Day 3:
+    Task: Deepen Python skills focusing on matplotlib
+    Watch: Matplotlib tutorial series on YouTube by Corey Schafer.
+    https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+    Tool: Practice making plots on Jupyter Notebook.
+
+Day 4:
+    Task: Introduction to Neural Networks 
+    Read:
+    “Deep Learning” by Goodfellow, Bengio, and Courville.
+    http://www.deeplearningbook.org/
+    
+Day 5:
+    Task: Get acquainted with Hugging Face, a Natural Language Processing library
+    Read: Hugging Face documentation.
+    https://huggingface.co/transformers/
+    Tool: Try some text classification tasks on Jupyter notebook.
+
+Weekend:
+    Day 6: Review 
+    Reflect on how you see AI application in real world scenarios after learning about Neural Networks. 
+    Engage with examples to apply theoretical knowledge into practical situation.
+
+    Day 7: Stretch goal
+    Try to implement a very basic Neural Network Model using Scikit-learn.
+    Use this Scikit-learn guide: https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+    Reflection prompt: How did the creation of a Neural Network differ from your expectations? What challenges did you face and how did you overcome them?
+
+Final Note: Remember, every step you take in improving your AI skills is a significant step towards becoming a world-class AI engineer. Maximize this week's 5-hour allowance, and let's make some good progress!",4/6/2025 8:51pm
+Sam Dey,soumavadey87@gmail.com,Become an AI Engineer,5.0,Video,"Here's your new 1-week learning plan, Sam. Let's step up the challenge slightly from last week, while keeping it achievable and exciting. 
+
+**Day 1:** 
+- **Introduction to Neural Networks**
+    - Spend 1 hour watching this [video on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
+    - Tool to use: Pen and Paper for notes.
+- **Reflection:** What similarities and differences can you note between a human brain's network of neurons and artificial neural networks?
+
+**Day 2:** 
+- **Deep Learning with TensorFlow**
+    - Spend 1.5 hours on this [deep learning with TensorFlow tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+    - Tools to use: TensorFlow, Python, Jupyter Notebook.
+- **Reflection:** What type of problems can be solved with Deep Learning? 
+
+**Day 3: Rest Day**
+
+**Day 4:**
+- **Understanding and Implementing Convolutional Neural Networks**
+    - Spend 1.5 hours watching this [video tutorial](https://www.youtube.com/watch?v=FTr3n7uBIuE)
+    - Tools to use: Python, Jupyter Notebook, TensorFlow.
+- **Reflection:** What did you learn about the architecture of Convolutional Neural Networks?
+
+**Day 5: Rest Day**   
+
+**Day 6:**
+- **Understanding and applying Recurrent Neural Networks**
+    - Spend 55 mins watching [this video](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+    - Tools to use: Python, Jupyter Notebook, TensorFlow.
+- **Reflection:** How does Recurrent Neural Networks handle sequence prediction?
+
+**Day 7:**
+- **Stretch Goal:** Today, try creating a small project or experiment of your own using TensorFlow and neural networks. You could try to solve an interesting problem you found or apply it to a project you already have.
+    - Tools to use: Python, Jupyter Notebook, TensorFlow.
+- **Reflection:** Reflect on how confident you feel with the material covered this week. What were the trouble spots? What concepts are you most comfortable with and which ones are less so?
+
+Remember, Sam, the goal here is to build up knowledge in layers, understanding and practicing each concept before moving to the next. Pace yourself and enjoy the learning journey. Keep being awesome!",4/6/2025 9:23pm
+Sam Dey,soumavadey87@gmail.com,Become an AI Engineer,5.0,Video,"Here's your plan for the week, Sam:
+
+**Day 1:** (Video Learning - ~1 hour)  
+Watch this video on ""Building a Simple AI Model"" by Siraj Raval who explains the basics of building an AI model from scratch.  
+Link: [Building a Simple AI Model](https://www.youtube.com/watch?v=z0vhMJvw6rc)  
+**Tool:** Google Colab or Jupyter Notebook
+
+**Day 2:** (Coding Practice - ~1 hour)  
+Follow along with the above-mentioned video and attempt to code the simple AI model in Python yourself.  
+**Tool:** Google Colab or Jupyter Notebook
+
+**Day 3:** (Video Learning - ~1 hour)   
+Watch the video ""Understanding Machine Learning with Python"" by Edureka. This explores the core fundamentals of machine learning within the Python framework.  
+Link: [Understanding Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)  
+**Tool:** Python, Scikit-learn
+
+**Day 4:** (Reading / Self Study - ~1 hour)  
+Read these articles to better understand the concepts explained in the videos and to deepen your knowledge.
+Link 1: [Getting Started with Machine Learning](https://www.datacamp.com/community/tutorials/machine-learning-python)
+Link 2: [Introduction to Scikit-learn](https://www.datacamp.com/community/tutorials/introduction-to-scikit-learn)
+**Tool:** Python, Scikit-learn
+
+**Day 5:** (Active learning - ~1 hour)  
+Try to code a simple Machine Learning model using scikit-learn based on what you've learnt so far, refer to videos and articles if needed. A simple classification or regression task can be a good start.   
+**Tool:** Python, Scikit-learn, Google Colab or Jupyter Notebook
+
+**Stretch Goal for the Week:** Try to improve the performance of your model using different Machine learning algorithms and tuning the model parameters. You can also try to visualize the results using matplotlib or seaborn python libraries.
+
+**End of the Week Reflection Question:** What were the three most important things you learned about machine learning and AI Algorthims this week, and how will they benefit you as an AI engineer?
+
+Remember, Sam, you're aiming to be among the best in your field. Keep that in mind and stay motivated! You're doing great!",4/6/2025 9:56pm
+Sam Dey,soumavadey87@gmail.com,Become an AI Engineer,5.0,Video,"Sure, Sam. Happy to create a customized learning plan for you. Considering your availability and preference for video content, here's your 1-week plan to becoming an AI Engineer:
+
+**Day 1: Deep Dive into Machine Learning**
+Start your journey with a deep understanding of Machine learning, which is a significant aspect of AI.
+
+Watch ""Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn"" on YouTube. This video covers the foundations you'll need for moving on to more complex aspects of AI.
+[Link](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+Activity: Take detailed notes & identify key terms, examples, and concepts
+
+**Day 2: Mathematics for AI**
+AI requires a good mathematical foundation. Brush up on your Linear Algebra, Statistics, Probability, and Calculus.
+
+Watch ""The Mathematics of Machine Learning"" on YouTube.
+[Link](https://www.youtube.com/watch?v=8onB7rPG4Pk)
+Activity: Solve a couple of problems based on the topics discussed in the video
+
+**Day 3: Python for AI**
+The Python programming language is used heavily in AI. Brush up on Python skills as necessary. 
+
+Watch ""Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Seaborn)"" on YouTube. 
+[Link](https://www.youtube.com/watch?v=L_HbhJhjQVQ)
+Activity: Implement basic python programming tasks in Jupyter Notebook.
+
+**Day 4: Neural Networks**
+Understand the concept behind Neural Networks, a subset of machine learning which is at the heart of AI technologies.
+
+Watch ""But what is a Neural Network? | Deep learning"" on YouTube. 
+[Link](https://www.youtube.com/watch?v=aircAruvnKk)
+Activity: Note down the structure, functions, and different layers in the neural network. 
+
+**Day 5: Deep learning and Tensorflow**
+Deep Learning is a subset of Machine Learning, which makes the computation of multi-layer neural networks feasible. It is the foundation of AI. 
+
+Watch ""Intro to TensorFlow for Deep Learning - TensorFlow Tutorial"" on YouTube.
+[Link](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+Activity: Try creating some simple models on TensorFlow.
+
+**Day 6: AI applications**
+Understand the real-world applications of AI and Machine Learning, and how they are revolutionizing various industries. 
+
+Watch ""Top 10 Applications of Artificial Intelligence | AI Applications in Real Life"" on YouTube.
+[Link](https://www.youtube.com/watch?v=kTMi20FalCk)
+Activity: Think about how you can apply this knowledge in other non-traditional fields. 
+
+**Day 7: Rest and Reflection**
+Take a breather after 6 intense days of learning.
+Reflect on your learning path and jot down answers for:
+- What have been my key takeaways from this week?
+- How can I apply what I learned this week to a project?
+- What concepts do I need to revisit?
+- What will be my focus next week?
+
+**Stretch Goal**: Try installing and setting up environments for Jupyter Notebook, Scikit-learn, TensorFlow, and start familiarizing yourselves with these tools. 
+
+Remember, slow and steady wins the race! Consistency is key when learning new and complex topics, so keep going and you'll definitely reach your goals. Don't hesitate to ask if you need any help along the way. Good luck!",4/6/2025 9:56pm
