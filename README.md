@@ -37,6 +37,6 @@ Name: Sam Dey
 Email: soumavadey@email.com
 Goal: Become an AI Engineer
 Hours: 5
-Format: Video (can be changed to other formats)```
-
+Format: Video (can be changed to other formats)
+```
 ![User Form Submission](https://github.com/soudey123/AI-Career-Coach/blob/main/User%20Form%20Submission.png)
