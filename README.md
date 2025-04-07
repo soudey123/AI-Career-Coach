@@ -48,7 +48,7 @@ Format: Video (can be changed to other formats)
 
 ### 3. Airtable track learning plan recommendation from AI on a weekly basis:
 
-![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Log.png)
+![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Sample_AILearningPlan_Tracker.csv)
 
 ## 📦 Setup Instructions
 
