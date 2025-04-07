@@ -30,7 +30,7 @@ An automated AI assistant that generates personalized weekly career development 
 
 ## 📸 Demo
 
-1. Submit a form like this: 
+### 1. Submit a form like this: 
 
 ```text
 Name: Sam Dey
@@ -41,11 +41,13 @@ Format: Video (can be changed to other formats)
 ```
 ![User Form Submission](https://github.com/soudey123/AI-Career-Coach/blob/main/User%20Form%20Submission.png)
 
-2. Email notofication containing weekly learning plan from AI:
+### 2. Email notofication containing weekly learning plan from AI:
 
 ![Email Notification](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Email%20Notification.png)
 
-3. Airtable track learning plan recommendation from AI on a weekly basis:
+### 3. Airtable track learning plan recommendation from AI on a weekly basis:
+
+
 
 
 
