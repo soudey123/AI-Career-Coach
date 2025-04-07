@@ -49,45 +49,63 @@ Format: Video (can be changed to other formats)
 
 ![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Log.png)
 
-📦 Setup Instructions
-Clone this repo:
+## 📦 Setup Instructions
 
-bash
-Copy
-Edit
+### Clone this repo:
+
+```bash
 git clone https://github.com/your-username/ai-career-coach.git
 cd ai-career-coach
-Create a .env file (or use GitHub Actions Secrets) with:
+```
 
-ini
-Copy
-Edit
+### Create a `.env` file (or use GitHub Actions Secrets) with:
+
+```ini
 OPENAI_API_KEY=sk-xxxx
 EMAIL_SENDER=your-email@gmail.com
 EMAIL_PASSWORD=your-app-password
 AIRTABLE_TOKEN=patxxxxxxx
 AIRTABLE_BASE_ID=appxxxxxxx
-Install dependencies:
+```
 
-bash
-Copy
-Edit
+### Install dependencies:
+
+```bash
 pip install -r requirements.txt
-Run locally:
+```
 
-bash
-Copy
-Edit
+### Run locally:
+
+```bash
 python app.py
-⏰ Automate Weekly Delivery
-This repo includes a weekly_trigger.py and GitHub Actions config to automate weekly career emails.
+```
 
-📬 Generates new plans weekly
+---
 
-🔁 Uses past plans as memory to avoid repetition
+## ⏰ Automate Weekly Delivery
 
-✅ Logs each plan to Airtable for analytics
+This repo includes a `weekly_trigger.py` and GitHub Actions config to automate weekly career emails:
 
+- 📬 **Generates new plans weekly**
+- 🔁 **Uses past plans as memory to avoid repetition**
+- ✅ **Logs each plan to Airtable for tracking**
+
+You can schedule it with:
+- GitHub Actions (recommended)
+- Replit cron jobs (Pro accounts)
+- External services like [cron-job.org](https://cron-job.org)
+
+---
+
+## 🤝 Contributions Welcome
+
+Want to add features like:
+
+- Notion export?  
+- Web dashboard?  
+- Progress tracking or streak badges?
+
+Fork it. PR it. Let’s build it together! 🚀
 
 
 
