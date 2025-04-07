@@ -49,6 +49,45 @@ Format: Video (can be changed to other formats)
 
 ![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Log.png)
 
+📦 Setup Instructions
+Clone this repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/ai-career-coach.git
+cd ai-career-coach
+Create a .env file (or use GitHub Actions Secrets) with:
+
+ini
+Copy
+Edit
+OPENAI_API_KEY=sk-xxxx
+EMAIL_SENDER=your-email@gmail.com
+EMAIL_PASSWORD=your-app-password
+AIRTABLE_TOKEN=patxxxxxxx
+AIRTABLE_BASE_ID=appxxxxxxx
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run locally:
+
+bash
+Copy
+Edit
+python app.py
+⏰ Automate Weekly Delivery
+This repo includes a weekly_trigger.py and GitHub Actions config to automate weekly career emails.
+
+📬 Generates new plans weekly
+
+🔁 Uses past plans as memory to avoid repetition
+
+✅ Logs each plan to Airtable for analytics
+
 
 
 
