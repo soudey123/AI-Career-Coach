@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Career Coach</title>
+</head>
+<body>
+  <h2>🚀 Welcome to Your AI Career Coach</h2>
+  <form action="/generate" method="post">
+    <label>Name:</label><br>
+    <input type="text" name="name" required><br><br>
+
+    <label>Email (to receive your weekly plan):</label><br>
+    <input type="email" name="email" required><br><br>
+
+    <label>Your Career Goal:</label><br>
+    <input type="text" name="goal" placeholder="e.g., Become a Data Scientist" required><br><br>
+
+    <label>Available Hours This Week:</label><br>
+    <input type="number" name="hours" min="1" max="168" required><br><br>
+
+    <label>Preferred Learning Format:</label><br>
+    <select name="format">
+      <option value="Reading">Reading</option>
+      <option value="Video">Video</option>
+      <option value="Hands-on">Hands-on</option>
+      <option value="Any">Any</option>
+    </select><br><br>
+
+    <button type="submit">Generate Weekly Plan</button>
+  </form>
+</body>
+</html>
