@@ -40,3 +40,7 @@ Hours: 5
 Format: Video (can be changed to other formats)
 ```
 ![User Form Submission](https://github.com/soudey123/AI-Career-Coach/blob/main/User%20Form%20Submission.png)
+
+Airtable track learning plan recommendation from AI on a weekly basis
+
+
