@@ -34,7 +34,7 @@ Submit a form like this:
 
 ```text
 Name: Sam Dey
-Email: sam@email.com
+Email: soumavadey@email.com
 Goal: Become an AI Engineer
-Hours: 8
-Format: Video
+Hours: 5
+Format: Video (can be changed to other formats)
