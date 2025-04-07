@@ -2,7 +2,7 @@
 
 An automated AI assistant that generates personalized weekly career development plans and delivers them to your inbox — powered by GPT-4, Flask, and Airtable.
 
-![Career Coach Screenshot](https://your-screenshot-url-if-hosted.png)
+![Career Coach Screenshot](https://github.com/soudey123/AI-Career-Coach/blob/main/AI%20Career%20Coach%20Weekly%20Plan.png)
 
 ---
 
