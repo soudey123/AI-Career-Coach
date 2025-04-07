@@ -1,4 +1,3 @@
-# AI-Career-Coach
 # 🧠 AI Career Coach
 
 An automated AI assistant that generates personalized weekly career development plans and delivers them to your inbox — powered by GPT-4, Flask, and Airtable.
