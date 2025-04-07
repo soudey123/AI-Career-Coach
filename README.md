@@ -1,6 +1,6 @@
 # 🧠 AI Career Coach
 
-An automated AI assistant that generates personalized weekly career development plans and delivers them to your inbox — powered by GPT-4, Flask, and Airtable.
+An automated AI assistant that generates personalized weekly career development plans and delivers them to your inbox — powered by GPT-4, Flask, and Airtable. Replit web development framework was leveraged to build this prototype web app that provides learning weekly learning roadmap as shown below:
 
 ![Career Coach Screenshot](https://github.com/soudey123/AI-Career-Coach/blob/main/AI%20Career%20Coach%20Weekly%20Plan.png)
 
@@ -43,8 +43,14 @@ Format: Video (can be changed to other formats)
 
 2. Email notofication containing weekly learning plan from AI:
 
+![Email Notification](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Email%20Notification.png)
+
+3. Airtable track learning plan recommendation from AI on a weekly basis:
 
 
-2. Airtable track learning plan recommendation from AI on a weekly basis
+
+
+
+   
 
 
