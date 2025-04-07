@@ -50,7 +50,7 @@ Format: Video (can be changed to other formats)
 
 ![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Sample_AILearningPlan_Tracker.csv)
 
-![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Sample_AILearningPlan_Tracker.csv)
+![Airtable Log](https://github.com/soudey123/AI-Career-Coach/blob/main/Weekly%20AI%20Learning%20Plan%20Log.png)
 
 ## 📦 Setup Instructions
 
