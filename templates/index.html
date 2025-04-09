@@ -3,31 +3,64 @@
 <head>
   <meta charset="UTF-8">
   <title>AI Career Coach</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-  <h2>🚀 Welcome to Your AI Career Coach</h2>
-  <form action="/generate" method="post">
-    <label>Name:</label><br>
-    <input type="text" name="name" required><br><br>
+<body class="bg-light">
+  <div class="container py-5">
+    <div class="row justify-content-center">
+      <div class="col-md-8 col-lg-6">
+        <div class="card shadow rounded-4 p-4">
+          <h2 class="text-center mb-4">🚀 Welcome to Your <span class="text-primary">AI Career Coach</span></h2>
 
-    <label>Email (to receive your weekly plan):</label><br>
-    <input type="email" name="email" required><br><br>
+          <form action="/generate" method="post" onsubmit="showLoadingMessage()">
+            <div class="mb-3">
+              <label class="form-label">Your Name:</label>
+              <input type="text" name="name" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Email:</label>
+              <input type="email" name="email" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Career Goal:</label>
+              <input type="text" name="goal" class="form-control" placeholder="e.g., Become a Data Scientist" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Hours Available This Week:</label>
+              <input type="number" name="hours" class="form-control" min="1" max="168" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Preferred Learning Format:</label>
+              <select name="format" class="form-select">
+                <option value="Reading">📘 Reading</option>
+                <option value="Video">📺 Video</option>
+                <option value="Hands-on">💻 Hands-on</option>
+                <option value="Any">🎯 Any</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Generate Weekly Plan</button>
+          </form>
 
-    <label>Your Career Goal:</label><br>
-    <input type="text" name="goal" placeholder="e.g., Become a Data Scientist" required><br><br>
+          <div id="loading-message" style="display: none; margin-top: 20px;">
+            <div class="alert alert-info text-center">
+              ⏳ Generating your personalized plan... Hang tight!
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <label>Available Hours This Week:</label><br>
-    <input type="number" name="hours" min="1" max="168" required><br><br>
+  <!-- JS for loading indicator -->
+  <script>
+    function showLoadingMessage() {
+      document.getElementById("loading-message").style.display = "block";
+    }
+  </script>
 
-    <label>Preferred Learning Format:</label><br>
-    <select name="format">
-      <option value="Reading">Reading</option>
-      <option value="Video">Video</option>
-      <option value="Hands-on">Hands-on</option>
-      <option value="Any">Any</option>
-    </select><br><br>
-
-    <button type="submit">Generate Weekly Plan</button>
-  </form>
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
