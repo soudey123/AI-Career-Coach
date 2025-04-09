@@ -4,7 +4,7 @@ An automated AI assistant that generates personalized weekly career development 
 
 ![User Form Submission](https://github.com/soudey123/AI-Career-Coach/blob/main/User%20Form%20Submission%20New.png)
 
-![Career Coach Screenshot](https://github.com/soudey123/AI-Career-Coach/blob/main/AI%20Career%20Coach%20Weekly%20Plan.png)
+![Career Coach Screenshot](https://github.com/soudey123/AI-Career-Coach/blob/main/AI%20Generated%20Plan.png)
 
 ---
 
